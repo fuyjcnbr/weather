@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Погода</string>
+    <string name="api_base_url">http://api.openweathermap.org/</string>
+    <string name="api_key">21eecb6a73d61aa47cf13fb994df570c</string>
+    <string name="button_add_city_name">Добавить город</string>
+    <string name="button_refresh_name">Обновить данные</string>
+    <string name="enter_city_text">Введите город:</string>
+</resources>
